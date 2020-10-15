@@ -1,0 +1,73 @@
+{
+    "produtos": {
+        "pincel": {
+            "quantidades": 0,
+            "items": [
+                {
+                    "id": 0,
+                    "imagem": "",
+                    "titulo": "Pincel Grande",
+                    "preco": "R$ 20,50 "
+                }
+            ]
+        },
+        "tinta": {
+            "quantidades": 0,
+            "items": [
+                {
+                    "id": 0,
+                    "imagem": "",
+                    "titulo": "Tinta acrílica brilhante",
+                    "preco": "R$ 20,50 "
+                },
+
+                {
+                    "id": 1,
+                    "imagem": "",
+                    "titulo": "Aquarela em Pastilha 12 cores",
+                    "preco": "R$ 20,50 "
+                },
+                
+                {
+                    "id": 2,
+                    "imagem": "",
+                    "titulo": "Tinta Guache Kit 8 tubos",
+                    "preco": "R$ 20,50" 
+                }
+            ]
+        },
+        "tela": {
+            "quantidades": 0,
+            "items": [
+                {
+                    "id": 0,
+                    "imagem": "",
+                    "titulo": "Tela para pintura",
+                    "preco": "R$ 20,50 "
+                }
+            ]
+        },
+        "caneta": { 
+            "quantidades": 0,
+            "items": [
+                {
+                    "id": 0,
+                    "imagem": "",
+                    "titulo": "Caneta Nanquim 0.4mm",
+                    "preco": "R$ 20,50 "
+                }
+            ]
+        },
+        "Giz": { 
+            "quantidades": 0,
+            "items": [
+                {
+                    "id": 0,
+                    "imagem": "",
+                    "titulo": "Giz pastel seco 48 cores",
+                    "preco": "R$ 20,50 "
+                }
+            ]
+        }
+    }
+}
