@@ -5,7 +5,7 @@
             "items": [
                 {
                     "id": 0,
-                    "imagem": "",
+                    "imagem": "https://raw.githubusercontent.com/jasmineguimaraes/recode-projeto-individual/master/imgs/brush.png",
                     "titulo": "Pincel Grande",
                     "preco": "R$ 20,50 "
                 }
@@ -16,21 +16,21 @@
             "items": [
                 {
                     "id": 0,
-                    "imagem": "",
+                    "imagem": "https://raw.githubusercontent.com/jasmineguimaraes/recode-projeto-individual/master/imgs/oil.png",
                     "titulo": "Tinta acrílica brilhante",
                     "preco": "R$ 20,50 "
                 },
 
                 {
                     "id": 1,
-                    "imagem": "",
+                    "imagem": "https://raw.githubusercontent.com/jasmineguimaraes/recode-projeto-individual/master/imgs/watercolor.jpg",
                     "titulo": "Aquarela em Pastilha 12 cores",
                     "preco": "R$ 20,50 "
                 },
                 
                 {
                     "id": 2,
-                    "imagem": "",
+                    "imagem": "https://raw.githubusercontent.com/jasmineguimaraes/recode-projeto-individual/master/imgs/guache.png",
                     "titulo": "Tinta Guache Kit 8 tubos",
                     "preco": "R$ 20,50" 
                 }
@@ -41,7 +41,7 @@
             "items": [
                 {
                     "id": 0,
-                    "imagem": "",
+                    "imagem": "https://raw.githubusercontent.com/jasmineguimaraes/recode-projeto-individual/master/imgs/canvas.png",
                     "titulo": "Tela para pintura",
                     "preco": "R$ 20,50 "
                 }
@@ -52,18 +52,18 @@
             "items": [
                 {
                     "id": 0,
-                    "imagem": "",
+                    "imagem": "https://raw.githubusercontent.com/jasmineguimaraes/recode-projeto-individual/master/imgs/caneta.png",
                     "titulo": "Caneta Nanquim 0.4mm",
                     "preco": "R$ 20,50 "
                 }
             ]
         },
-        "Giz": { 
+        "giz": { 
             "quantidades": 0,
             "items": [
                 {
                     "id": 0,
-                    "imagem": "",
+                    "imagem": "https://raw.githubusercontent.com/jasmineguimaraes/recode-projeto-individual/master/imgs/crayon.png",
                     "titulo": "Giz pastel seco 48 cores",
                     "preco": "R$ 20,50 "
                 }

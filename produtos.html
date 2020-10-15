@@ -6,7 +6,7 @@
   <link rel="stylesheet" href="css/style.css">
   <meta charset="utf-8">
   <link rel="icon" type="image/png" href="imgs/favicon.png" />
-  <script src="script.js"> </script>
+  <script src="js/script.js"> </script>
   <title>Arte Para Você</title>
 
 </head>
@@ -39,21 +39,23 @@
   <section class="catalogue">
 
 
-    <div class="navigation">
+    <div class="navigation" id="categorias">
 
     
         <p>Categorias</p>
-        <a onclick="filtrarCategoria()"> Pincéis </a> <br>
-        <a onclick="filtrarCategoria()"> Tintas </a> <br>
-        <a onclick="filtrarCategoria()"> Telas </a> <br>   
-        <a onclick="filtrarCategoria()"> Canetas </a> <br>
-        <a onclick="filtrarCategoria()"> Giz </a> <br>
+        <a onclick="mostrarTodas()"> Mostrar Todas </a> <br>
+        <a onclick="filtrarCategoria('pincel')"> Pincéis </a> <br>
+        <a onclick="filtrarCategoria('tinta')"> Tintas </a> <br>
+        <a onclick="filtrarCategoria('tela')"> Telas </a> <br>   
+        <a onclick="filtrarCategoria('caneta')"> Canetas </a> <br>
+        <a onclick="filtrarCategoria('giz')"> Giz </a> <br>
+
       
       
     
   </div> 
 
-    <div class="product-container">
+    <!--- <div class="product-container">
       <img class="picture-tag" src="imgs/brush.jpg" alt="Pincel Grande">
       <p class="product-tag">Pincel Grande</p>
       <hr>
@@ -125,7 +127,7 @@
       <hr>
       <p class="pricing">R$ 20,50 </p>
     </div>
-
+--->
 
 
 
