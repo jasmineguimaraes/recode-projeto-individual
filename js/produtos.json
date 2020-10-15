@@ -16,7 +16,7 @@
             "items": [
                 {
                     "id": 0,
-                    "imagem": "https://raw.githubusercontent.com/jasmineguimaraes/recode-projeto-individual/master/imgs/oil.png",
+                    "imagem": "https://raw.githubusercontent.com/jasmineguimaraes/recode-projeto-individual/master/imgs/oil.jpg",
                     "titulo": "Tinta acrílica brilhante",
                     "preco": "R$ 20,50 "
                 },
@@ -30,7 +30,7 @@
                 
                 {
                     "id": 2,
-                    "imagem": "https://raw.githubusercontent.com/jasmineguimaraes/recode-projeto-individual/master/imgs/guache.png",
+                    "imagem": "https://raw.githubusercontent.com/jasmineguimaraes/recode-projeto-individual/master/imgs/guache.jpg",
                     "titulo": "Tinta Guache Kit 8 tubos",
                     "preco": "R$ 20,50" 
                 }
@@ -41,7 +41,7 @@
             "items": [
                 {
                     "id": 0,
-                    "imagem": "https://raw.githubusercontent.com/jasmineguimaraes/recode-projeto-individual/master/imgs/canvas.png",
+                    "imagem": "https://raw.githubusercontent.com/jasmineguimaraes/recode-projeto-individual/master/imgs/canvas.jpg",
                     "titulo": "Tela para pintura",
                     "preco": "R$ 20,50 "
                 }
@@ -52,7 +52,7 @@
             "items": [
                 {
                     "id": 0,
-                    "imagem": "https://raw.githubusercontent.com/jasmineguimaraes/recode-projeto-individual/master/imgs/caneta.png",
+                    "imagem": "https://raw.githubusercontent.com/jasmineguimaraes/recode-projeto-individual/master/imgs/caneta.jpg",
                     "titulo": "Caneta Nanquim 0.4mm",
                     "preco": "R$ 20,50 "
                 }
@@ -63,7 +63,7 @@
             "items": [
                 {
                     "id": 0,
-                    "imagem": "https://raw.githubusercontent.com/jasmineguimaraes/recode-projeto-individual/master/imgs/crayon.png",
+                    "imagem": "https://raw.githubusercontent.com/jasmineguimaraes/recode-projeto-individual/master/imgs/crayon.jpg",
                     "titulo": "Giz pastel seco 48 cores",
                     "preco": "R$ 20,50 "
                 }
